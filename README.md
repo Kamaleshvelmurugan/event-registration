@@ -378,17 +378,18 @@ color: #4D18E6;
 
 output 1:
 
-![OUTPUT](./output 001.jpg)
+![OUTPUT](output001.jpg)
 
 output2:
 
-![OUTPUT](./output 002.jpg)
+![OUTPUT](output002.jpg)
 
 output3:
 
-![OUTPUT](./out put 003.jpg)
+![OUTPUT](output003.jpg)
 
 
 
 ## Result:
 
+The program to design, develop and deploy a web application for event registration is completed successfully.
